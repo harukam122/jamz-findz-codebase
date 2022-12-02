@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-https://happyquokka123.github.io/jamz-findz
+http://jamz-findz.com/
 
 ### Goal and Value of the Application
 This application allows the user to browse through the most recently released albums on Spotify based on its release date, whether it's a single or an album, and find out the number of tracks in each! The user can also add albums to favorites and find out the total number of tracks in their favorites at a glance.
